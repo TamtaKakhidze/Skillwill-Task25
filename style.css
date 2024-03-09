@@ -266,7 +266,7 @@ footer {
     grid-template-columns: repeat(5, 1fr);
     grid-template-rows: repeat(2, 500px);
     gap: 30px;
-    margin-bottom: 104px;
+    margin-bottom: 105px;
 }
 
 .gallery-grid img {
